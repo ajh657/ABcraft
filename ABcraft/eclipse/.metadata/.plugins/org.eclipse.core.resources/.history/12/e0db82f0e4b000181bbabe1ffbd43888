@@ -1,0 +1,15 @@
+package com.ajh657.ABcraft;
+import com.ajh657.ABcraft.util.Refrence;
+
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod.Instance;
+
+@Mod(modid = Refrence.MOD_ID, name = Refrence.NAME, version = Refrence.VERSION)
+public class Main {
+
+	@Instance
+	public static Main instance;
+	
+	@SidedProxy(clientSide = )
+	
+}

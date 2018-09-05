@@ -1,0 +1,9 @@
+package com.ajh657.ABcraft;
+import com.ajh657.ABcraft.util.Refrence;
+
+import net.minecraftforge.fml.common.Mod;
+
+@Mod(modid = Refrence.MOD_ID, name = Refrence.NAME, version = Refrence.VERSION)
+public class Main {
+
+}
